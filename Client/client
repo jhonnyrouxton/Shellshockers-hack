@@ -52,7 +52,7 @@
 // @match        *://yolk.rocks/*
 // @match        *://yolk.tech/*
 // @match        *://zygote.cafe/*
-// @icon         https://raw.githubusercontent.com/hydroflame521/StateFarmClient/main/icons/StateFarmClientLogo384px.png
+// @icon         https://raw.githubusercontent.com/jhonnyrouxton/StateFarmClient/main/icons/StateFarmClientLogo384px.png
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
