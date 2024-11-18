@@ -52,7 +52,7 @@
 // @match        *://yolk.rocks/*
 // @match        *://yolk.tech/*
 // @match        *://zygote.cafe/*
-// @icon         https://raw.githubusercontent.com/jhonnyrouxton/StateFarmClient/main/icons/StateFarmClientLogo384px.png
+// @icon         https://github.com/jhonnyrouxton/Shellshockers-hack/blob/main/Client/client
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
